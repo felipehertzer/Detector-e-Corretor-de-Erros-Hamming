@@ -1,0 +1,224 @@
+2016-04-04 18:29PM - Illegal string offset 'id' in C:\xampp\htdocs\comunicacao\system\Helpers\Form.php on line 186
+
+2016-04-04 18:30PM - Illegal string offset 'id' in C:\xampp\htdocs\comunicacao\system\Helpers\Form.php on line 186
+
+2016-04-04 18:30PM - Illegal string offset 'id' in C:\xampp\htdocs\comunicacao\system\Helpers\Form.php on line 186
+
+2016-04-04 18:30PM - Illegal string offset 'id' in C:\xampp\htdocs\comunicacao\system\Helpers\Form.php on line 186
+
+2016-04-04 18:30PM - Illegal string offset 'id' in C:\xampp\htdocs\comunicacao\system\Helpers\Form.php on line 186
+
+2016-04-04 18:31PM - Illegal string offset 'id' in C:\xampp\htdocs\comunicacao\system\Helpers\Form.php on line 186
+
+2016-04-04 18:31PM - Illegal string offset 'id' in C:\xampp\htdocs\comunicacao\system\Helpers\Form.php on line 186
+
+2016-04-04 18:32PM - Illegal string offset 'id' in C:\xampp\htdocs\comunicacao\system\Helpers\Form.php on line 186
+
+2016-04-04 21:07PM - explode(): Empty delimiter in C:\xampp\htdocs\comunicacao\app\Controllers\Welcome.php on line 45
+
+2016-04-04 21:10PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\comunicacao\app\Controllers\Welcome.php on line 46
+
+2016-04-04 21:10PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\comunicacao\app\Controllers\Welcome.php on line 47
+
+2016-04-04 21:11PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\comunicacao\app\Controllers\Welcome.php on line 47
+
+2016-04-04 21:11PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\comunicacao\app\Controllers\Welcome.php on line 47
+
+2016-04-04 21:12PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\comunicacao\app\Views\Welcome\SubPage.php on line 17
+
+2016-04-04 21:12PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\comunicacao\app\Views\Welcome\SubPage.php on line 17
+
+2016-04-04 21:13PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\comunicacao\app\Views\Welcome\SubPage.php on line 17
+
+2016-04-04 21:13PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\comunicacao\app\Views\Welcome\SubPage.php on line 17
+
+2016-04-04 21:13PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\comunicacao\app\Views\Welcome\SubPage.php on line 17
+
+2016-04-04 21:14PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\comunicacao\app\Views\Welcome\SubPage.php on line 17
+
+2016-04-04 21:15PM - array_push() expects parameter 1 to be array, integer given in C:\xampp\htdocs\comunicacao\app\Controllers\Welcome.php on line 96
+
+2016-04-04 21:17PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\comunicacao\app\Views\Welcome\SubPage.php on line 17
+
+2016-04-04 21:17PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\comunicacao\app\Views\Welcome\SubPage.php on line 17
+
+2016-04-04 21:18PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\comunicacao\app\Views\Welcome\SubPage.php on line 17
+
+2016-04-04 21:18PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\comunicacao\app\Views\Welcome\SubPage.php on line 17
+
+2016-04-04 21:19PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\comunicacao\app\Views\Welcome\SubPage.php on line 17
+
+2016-04-04 21:19PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\comunicacao\app\Views\Welcome\SubPage.php on line 17
+
+2016-04-04 21:20PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\comunicacao\app\Views\Welcome\SubPage.php on line 17
+
+2016-04-04 21:20PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\comunicacao\app\Views\Welcome\SubPage.php on line 17
+
+2016-04-04 21:21PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\comunicacao\app\Views\Welcome\SubPage.php on line 17
+
+2016-04-04 21:22PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\comunicacao\app\Views\Welcome\SubPage.php on line 17
+
+2016-04-04 21:22PM - Illegal string offset 'retorno' in C:\xampp\htdocs\comunicacao\app\Views\Welcome\SubPage.php on line 17
+
+2016-04-04 21:22PM - Illegal string offset 'retorno' in C:\xampp\htdocs\comunicacao\app\Views\Welcome\SubPage.php on line 17
+
+2016-05-30 18:56PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\hamming\app\Views\Welcome\Resultado.php on line 11
+
+2016-05-30 18:57PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\hamming\app\Views\Welcome\Resultado.php on line 17
+
+2016-05-30 21:15PM - Illegal offset type in C:\xampp\htdocs\hamming\app\Controllers\Welcome.php on line 66
+
+2016-05-30 21:17PM - Illegal offset type in C:\xampp\htdocs\hamming\app\Controllers\Welcome.php on line 66
+
+2016-05-31 14:37PM - array_splice() expects parameter 1 to be array, null given in C:\xampp\htdocs\hamming\app\Controllers\Welcome.php on line 189
+
+2016-05-31 14:39PM - array_splice() expects parameter 1 to be array, null given in C:\xampp\htdocs\hamming\app\Controllers\Welcome.php on line 189
+
+2016-05-31 16:04PM - key() expects parameter 1 to be array, null given in C:\xampp\htdocs\hamming\app\Views\Welcome\ResultadoErro.php on line 24
+
+2016-05-31 16:05PM - key() expects parameter 1 to be array, null given in C:\xampp\htdocs\hamming\app\Views\Welcome\ResultadoErro.php on line 24
+
+2016-05-31 17:42PM - key() expects parameter 1 to be array, null given in C:\xampp\htdocs\hamming\app\Views\Welcome\Resultado.php on line 21
+
+2016-05-31 18:34PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\hamming\app\Views\Welcome\Resultado.php on line 58
+
+2016-05-31 18:34PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\hamming\app\Views\Welcome\Resultado.php on line 58
+
+2016-05-31 18:42PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\hamming\app\Controllers\Welcome.php on line 137
+
+2016-06-01 20:22PM - str_split() expects parameter 1 to be string, array given in C:\xampp\htdocs\hamming\app\Controllers\Welcome.php on line 188
+
+2016-06-01 20:24PM - str_split() expects parameter 1 to be string, array given in C:\xampp\htdocs\hamming\app\Controllers\Welcome.php on line 187
+
+2016-06-01 20:24PM - str_split() expects parameter 1 to be string, array given in C:\xampp\htdocs\hamming\app\Controllers\Welcome.php on line 187
+
+2016-06-01 20:25PM - str_split() expects parameter 1 to be string, array given in C:\xampp\htdocs\hamming\app\Controllers\Welcome.php on line 187
+
+2016-06-01 20:25PM - str_split() expects parameter 1 to be string, array given in C:\xampp\htdocs\hamming\app\Controllers\Welcome.php on line 188
+
+2016-06-01 20:27PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\hamming\app\Views\Welcome\Resultado.php on line 107
+
+2016-06-01 20:28PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\hamming\app\Views\Welcome\Resultado.php on line 108
+
+2016-06-01 20:28PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\hamming\app\Views\Welcome\Resultado.php on line 108
+
+2016-06-01 20:29PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\hamming\app\Views\Welcome\Resultado.php on line 108
+
+2016-06-01 20:29PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\hamming\app\Views\Welcome\Resultado.php on line 108
+
+2016-06-01 20:30PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\hamming\app\Views\Welcome\Resultado.php on line 116
+
+2016-06-01 20:46PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\hamming\app\Views\Welcome\Resultado.php on line 107
+
+2016-06-01 20:47PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\hamming\app\Views\Welcome\Resultado.php on line 107
+
+2016-06-01 20:48PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\hamming\app\Views\Welcome\Resultado.php on line 107
+
+2016-06-01 20:50PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\hamming\app\Views\Welcome\Resultado.php on line 107
+
+2016-06-01 20:51PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\hamming\app\Views\Welcome\Resultado.php on line 107
+
+2016-06-01 20:52PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\hamming\app\Views\Welcome\Resultado.php on line 107
+
+2016-06-01 20:52PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\hamming\app\Views\Welcome\Resultado.php on line 107
+
+2016-06-01 20:52PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\hamming\app\Views\Welcome\Resultado.php on line 107
+
+2016-06-01 20:53PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\hamming\app\Views\Welcome\Resultado.php on line 107
+
+2016-06-01 20:54PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\hamming\app\Views\Welcome\Resultado.php on line 107
+
+2016-06-01 20:54PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\hamming\app\Views\Welcome\Resultado.php on line 107
+
+2016-06-01 20:54PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\hamming\app\Views\Welcome\Resultado.php on line 107
+
+2016-06-01 20:55PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\hamming\app\Views\Welcome\Resultado.php on line 107
+
+2016-06-01 20:55PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\hamming\app\Views\Welcome\Resultado.php on line 107
+
+2016-06-01 20:56PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\hamming\app\Views\Welcome\Resultado.php on line 107
+
+2016-06-01 21:06PM - implode(): Invalid arguments passed in C:\xampp\htdocs\hamming\app\Controllers\Welcome.php on line 155
+
+2016-06-01 21:07PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\hamming\app\Views\Welcome\Resultado.php on line 107
+
+2016-06-01 21:08PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\hamming\app\Views\Welcome\Resultado.php on line 107
+
+2016-06-01 21:11PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\hamming\app\Views\Welcome\Resultado.php on line 107
+
+2016-06-01 21:12PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\hamming\app\Views\Welcome\Resultado.php on line 107
+
+2016-06-03 14:48PM - key() expects parameter 1 to be array, null given in C:\xampp\htdocs\hamming\app\Views\Welcome\ResultadoErro.php on line 25
+
+2016-06-03 14:49PM - key() expects parameter 1 to be array, null given in C:\xampp\htdocs\hamming\app\Views\Welcome\ResultadoErro.php on line 25
+
+2016-06-03 14:50PM - key() expects parameter 1 to be array, null given in C:\xampp\htdocs\hamming\app\Views\Welcome\ResultadoErro.php on line 25
+
+2016-06-03 14:50PM - key() expects parameter 1 to be array, null given in C:\xampp\htdocs\hamming\app\Views\Welcome\ResultadoErro.php on line 25
+
+2016-06-03 14:50PM - key() expects parameter 1 to be array, null given in C:\xampp\htdocs\hamming\app\Views\Welcome\ResultadoErro.php on line 25
+
+2016-06-03 14:51PM - key() expects parameter 1 to be array, null given in C:\xampp\htdocs\hamming\app\Views\Welcome\ResultadoErro.php on line 25
+
+2016-06-03 14:51PM - key() expects parameter 1 to be array, null given in C:\xampp\htdocs\hamming\app\Views\Welcome\ResultadoErro.php on line 25
+
+2016-06-03 15:04PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\hamming\app\Controllers\Welcome.php on line 120
+
+2016-06-03 15:09PM - key() expects parameter 1 to be array, null given in C:\xampp\htdocs\hamming\app\Views\Welcome\Resultado.php on line 53
+
+2016-06-03 15:09PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\hamming\app\Views\Welcome\Resultado.php on line 63
+
+2016-06-03 15:29PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\hamming\app\Views\Welcome\ResultadoErro.php on line 47
+
+2016-06-03 15:50PM - key() expects parameter 1 to be array, null given in C:\xampp\htdocs\hamming\app\Views\Welcome\Resultado.php on line 109
+
+2016-06-03 15:51PM - key() expects parameter 1 to be array, null given in C:\xampp\htdocs\hamming\app\Views\Welcome\Resultado.php on line 109
+
+2016-06-03 15:52PM - key() expects parameter 1 to be array, null given in C:\xampp\htdocs\hamming\app\Views\Welcome\Resultado.php on line 109
+
+2016-06-03 15:53PM - key() expects parameter 1 to be array, null given in C:\xampp\htdocs\hamming\app\Views\Welcome\Resultado.php on line 109
+
+2016-06-03 15:53PM - key() expects parameter 1 to be array, null given in C:\xampp\htdocs\hamming\app\Views\Welcome\Resultado.php on line 109
+
+2016-06-03 15:53PM - key() expects parameter 1 to be array, null given in C:\xampp\htdocs\hamming\app\Views\Welcome\Resultado.php on line 109
+
+2016-06-03 15:53PM - key() expects parameter 1 to be array, null given in C:\xampp\htdocs\hamming\app\Views\Welcome\Resultado.php on line 109
+
+2016-06-03 15:54PM - key() expects parameter 1 to be array, null given in C:\xampp\htdocs\hamming\app\Views\Welcome\Resultado.php on line 109
+
+2016-06-03 15:55PM - key() expects parameter 1 to be array, null given in C:\xampp\htdocs\hamming\app\Views\Welcome\Resultado.php on line 109
+
+2016-06-03 15:55PM - key() expects parameter 1 to be array, null given in C:\xampp\htdocs\hamming\app\Views\Welcome\Resultado.php on line 109
+
+2016-06-03 15:55PM - key() expects parameter 1 to be array, null given in C:\xampp\htdocs\hamming\app\Views\Welcome\Resultado.php on line 109
+
+2016-06-03 15:56PM - key() expects parameter 1 to be array, null given in C:\xampp\htdocs\hamming\app\Views\Welcome\Resultado.php on line 14
+
+2016-06-03 15:56PM - key() expects parameter 1 to be array, null given in C:\xampp\htdocs\hamming\app\Views\Welcome\Resultado.php on line 17
+
+2016-06-03 15:57PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\hamming\app\Views\Welcome\Resultado.php on line 57
+
+2016-06-03 15:58PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\hamming\app\Views\Welcome\Resultado.php on line 57
+
+2016-06-03 15:59PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\hamming\app\Views\Welcome\Resultado.php on line 68
+
+2016-06-03 18:11PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\hamming\app\Controllers\Welcome.php on line 132
+
+2016-06-03 18:15PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\hamming\app\Views\Welcome\ResultadoErro.php on line 101
+
+2016-06-03 18:16PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\hamming\app\Views\Welcome\ResultadoErro.php on line 101
+
+2016-06-03 18:16PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\hamming\app\Views\Welcome\ResultadoErro.php on line 101
+
+2016-06-03 18:17PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\hamming\app\Views\Welcome\ResultadoErro.php on line 101
+
+2016-06-03 18:18PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\hamming\app\Views\Welcome\ResultadoErro.php on line 101
+
+2016-06-03 18:18PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\hamming\app\Views\Welcome\ResultadoErro.php on line 101
+
+2016-06-03 18:31PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\hamming\app\Views\Welcome\ResultadoErro.php on line 95
+
+2016-06-03 18:50PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\hamming\app\Views\Welcome\ResultadoErro.php on line 138
+
+2016-06-03 18:50PM - Invalid argument supplied for foreach() in C:\xampp\htdocs\hamming\app\Views\Welcome\ResultadoErro.php on line 138
+

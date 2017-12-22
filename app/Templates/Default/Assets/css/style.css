@@ -1,0 +1,11 @@
+/* Your styles here */
+
+footer{
+    text-align: center;
+    margin:10px;
+}
+
+.checkbox input[type=checkbox], .checkbox-inline input[type=checkbox], .radio input[type=radio], .radio-inline input[type=radio]{
+    position: inherit !important;
+    margin-left: 0 !important;
+}
